@@ -1,8 +1,8 @@
 ﻿# Basic
 title: Eirc 楚鸿
 subtitle: 天行健，君子以自强不息
-welcome_message: <a href="https://github.com/ericchuhong" target="_blank">比起别人要做成一件事我要花费两倍的时间呢，慢慢来</a>
-description: Hi！我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，正在沉淀着自己的人生.
+welcome_message: <a href="https://github.com/ericchuhong" target="_blank">Hi！我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，正在沉淀着自己的人生.</a>
+description: 比起别人要做成一件事我要花费两倍的时间呢，慢慢来
 creator: <a href="https://github.com/ericchuhong">@eric</a>
 
 url: "http://www.ericchuhong.com/"
@@ -40,12 +40,12 @@ comment:
 # Social
 social:
     weibo: eric
-    github: eric
-    twitter: eric
-    gplus: 107108267983477358170
+    github: 2390494972
+    twitter: ericchuhong
+    gplus: 108509606100788511645
     mail: ericchuhong@gmail.com
 
 # Google Analytics
 ga:
-    # id: your_ga_id
-    # host: your_host
+    id: UA-83697135-1
+    host: ericchuhong.com
