@@ -1,8 +1,8 @@
 ﻿# Basic
 title: Eirc 楚鸿
-subtitle: 比起别人要做成一件事你要花费两倍的时间呢，慢慢来
-#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 你好，我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，正在沉淀着自己的人生.
+subtitle: 天行健，君子以自强不息
+welcome_message: <a href="https://github.com/ericchuhong" target="_blank">比起别人要做成一件事我要花费两倍的时间呢，慢慢来</a>
+description: Hi！我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，正在沉淀着自己的人生.
 creator: <a href="https://github.com/ericchuhong">@eric</a>
 
 url: "http://www.ericchuhong.com/"
@@ -11,6 +11,8 @@ permalink: /:year/:month/:title/
 
 # Format
 highlighter: plain
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: green
@@ -18,7 +20,7 @@ cover_color: green
 # The blog button should not be removed.
 blog_button:
     title: 博客
-    description: Visit blog
+    description: 查看博客
 
 # Navigation buttons in the front page.
 nav:
@@ -37,11 +39,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: eric
+    github: eric
+    twitter: eric
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: ericchuhong@gmail.com
 
 # Google Analytics
 ga:
