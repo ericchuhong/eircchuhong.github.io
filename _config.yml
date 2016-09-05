@@ -1,11 +1,11 @@
 ﻿# Basic
 title: Eirc 楚鸿
 subtitle: 比起别人要做成一件事你要花费两倍的时间呢，慢慢来
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 你好，我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，远大的目标是成为改变世界的人.
-creator: <a href="http://onev.cat">@onevcat</a>
+#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: 你好，我是马楚鸿，一个iOS入门开发者，喜欢一切有趣的事物，正在沉淀着自己的人生.
+creator: <a href="https://github.com/ericchuhong">@eric</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.ericchuhong.com/"
 
 permalink: /:year/:month/:title/
 
