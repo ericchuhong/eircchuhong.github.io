@@ -5,7 +5,7 @@ date:   2016-11-27 00:00:00 +0800
 ---
 
 
-![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
+![MacDown logo](https://github.com/ericchuhong/ericchuhong.github.io/blob/master/assets/2017/01.jpg)
 
 
 ## PPT
