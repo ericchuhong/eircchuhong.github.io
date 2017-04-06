@@ -2,7 +2,7 @@
 layout: post
 title:  "纵横捭阖的思考"
 date:   2016-11-27 00:00:00 +0800
-categories: Blog
+
 ---
 
 
