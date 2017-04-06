@@ -8,7 +8,7 @@ date:   2016-11-27 00:00:00 +0800
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
 
 
-##PPT
+## PPT
 -	妙音ppt 
 
 > ppt的纵横 要遵循垂直和水平结构的设计，水平是指能有总分总这样完整有逻辑性的通篇结构 。垂直结构则是讲每页ppt上的结构 ，要能先总后分，先抛观点，再论述
